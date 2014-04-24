@@ -1,28 +1,12 @@
 body {
-font-family: tahoma, Arial, sans-serif;
+font-family: High Tower Text, serif;
 background-color:#333236;
-color:#c0c0c0;
+color:#E6FF99;
 }
 
 h1 {
 font-size:32px;
-color:#B8E65C;
-background-color:#333236;
-}
-
-h2 {
-font-size:28px;
-color:#B8E65C
-background-color:#333236;
-}
-h3 {
-font-size:24px;
-color:#B8E65C
-background-color:#333236;
-}
-h4, h5, h6 {
-font-size:18px;
-color:#B8E65C
+color:#E6FF99;
 background-color:#333236;
 }
 
@@ -32,5 +16,5 @@ color:#ffffff;
 }
 
 a:hover {
-color:#D5F062;
+color:#E6FF99;
 }
